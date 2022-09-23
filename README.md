@@ -22,3 +22,9 @@ To answer the business questions mentioned above, we start by cleaning up our da
 
 # Data Exploration 
 We will perform exploratory data analysis once the data has been cleaned and prepared for analysis to answer all of the business questions above. 
+
+# Files and Folders
+  1. The orignial data files can be found in the Sales Data folder. 
+  2. The merged sales data file can be found in the All Sales Data folder. 
+  3. The complete Sales Analysis with Pandas and Matplotlib jupyter notebook can be found in the Sales Analysis folder. 
+  
